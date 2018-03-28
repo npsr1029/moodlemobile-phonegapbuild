@@ -5,13 +5,13 @@
         id        = "gyan.aitr.in"
         versionCode = "20230"
         version   = "3.4.2">
-    <name>Gyan</name>
+    <name>Acropolis LMS</name>
 
     <description>
-        Gyan Acropolis
+        Acropolis LMS
     </description>
 
-    <author href="http://aire.ac.in" email="acrolms@acropolis.in">
+    <author href="http://aitr.ac.in" email="acrolms@acropolis.in">
         Gyan Team
     </author>
 
