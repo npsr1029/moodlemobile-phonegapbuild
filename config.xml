@@ -11,7 +11,7 @@
         Gyan Acropolis
     </description>
 
-    <author href="http://moodle.com" email="acrolms@acropolis.in">
+    <author href="http://aire.ac.in" email="acrolms@acropolis.in">
         Gyan Team
     </author>
 
@@ -42,7 +42,7 @@
     <preference name="webviewbounce"    value="false" />
     <preference name="prerendered-icon" value="true" />
     <preference name="load-url-timeout" value="60000" />
-    <preference name="AppendUserAgent" value="Gyan" />
+    <preference name="AppendUserAgent" value="MoodleMobile" />
     <preference name="android-minSdkVersion" value="14" />
     <preference name="android-targetSdkVersion" value="19" />
     <preference name="android-installLocation" value="auto" />
