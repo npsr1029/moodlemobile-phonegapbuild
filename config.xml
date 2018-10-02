@@ -6,14 +6,14 @@
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>Moodle</name>
+    <name>Acropolis LMS</name>
 
     <description>
-        Moodle official app
+      Acropolis Officials
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://aitr.ac.in" email="">
+     Acro Team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
